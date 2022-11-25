@@ -51,3 +51,18 @@ distribuidas en dos columnas y alineadas a la izquierda.
 [02.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_04/ejercicio2.java) Realiza un programa que pida una hora por teclado y que muestre luego buenos días, buenas tardes o noches según la hora. Se utilizarán los tramos de 6 a 12, de 13 a 20 y de 21 a 5. respectivamente. Sólo se tienen en cuenta las horas, los minutos no se deben introducir por teclado.    
 [03.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_04/ejercicio3.java) Escribe un programa en que dado un número del 1 a 7 escriba el correspondiente nombre del día de la semana.      
 [04.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_04/ejercicio4.java) Vamos a ampliar uno de los ejercicios de la relación anterior para considerar las horas extras. Escribe un programa que calcule el salario semanal de un trabajador teniendo en cuenta que las horas ordinarias (40 primeras horas de trabajo) se pagan a 12 euros la hora. A partir de la hora 41, se pagan a 16 euros la hora.  
+
+<a name="tema5"/>
+
+### TEMA_05 | TEMA_05 | ESTRUCTURAS CONDICIONALES (II)
+###### Ir a [TEMA_05](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_05)
+
+[01.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_05/ejercicio1.java) Recupera alguno de los cuestionarios que has hecho en clase (M5/M16, M3, por ejemplo) y crea un programa que plantee 5 preguntas al usuario (en el enunciado deberás incluir las posibles respuestas). Finalmente se deberá mostrar por pantalla la nota obtenida (cada respuesta acertada sumará 1 punto).   
+[02.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_05/ejercicio2.java) Realiza un programa que pida el nombre completo de 3 alumnos y los muestre ordenados alfabéticamente. El formato de los nombres introducidos deberá ser: apellido1 apellido2, nombre Para comparar usa el método compareTo de la clase String.   
+[03.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_05/ejercicio3.java) Escribe un programa en que se pida un número de 3 cifras y a continuación se muestre por pantalla un mensaje indicando si el número es capicúa o no. Valida que el número introducido efectivamente tiene 3 cifras. En caso contrario muestra un mensaje de error. (Un número capicúa es aquel que se lee igual de izquierda a derecha, que de derecha a izquierda).   
+[04.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_05/ejercicio4.java) Crea un programa que calcule el número de dígitos que tiene un número. Se aceptarán números de como máximo 5 cifras. El número puede ser positivo o negativo.  
+[05.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_05/ejercicio5.java) Codifica un programa que calcule los minutos que faltan para el fin de semana. Ten en cuenta que consideramos que el fin de semana empieza el viernes a las 3 p.m. El usuario deberá introducir un día de la semana (de lunes a viernes), una hora y unos minutos.   
+[06.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_05/ejercicio6.java) Escribe un programa que calcule el precio final de un producto según:
+        • La base imponible (precio antes de impuestos).  
+        • El tipo de IVA aplicado. Puede ser: general (21%), reducido (10%) o superreducido (4%).   
+        • El código promocional. Los códigos promocionales pueden ser: sinpromo (no se aplica promoción), mitad (el precio se reduce a la mitad),                   descfijo (se descuentan 5 euros) o porcentaje (se descuenta el 5%).   
