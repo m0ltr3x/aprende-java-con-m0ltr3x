@@ -2,7 +2,7 @@
 
 <a name="tema1"/>
 
-### TEMA 01 | Salida de datos por pantalla
+### TEMA 1 | Salida de datos por pantalla
 ###### Ir a [TEMA_01](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_01)
 
 [1.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_01/Ejercicio1.java) Escribe una programa que muestre tu nombre por pantalla.  
@@ -16,7 +16,7 @@ distribuidas en dos columnas y alineadas a la izquierda.
 
 <a name="tema2"/>
 
-### TEMA 02 | Variables
+### TEMA 2 | Variables
 ###### Ir a [TEMA_02](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_02)
 
 [1.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_02/ejercicio1.java) Escribe un programa en el que se declaren las variables enteras x e y. Asignales los valores 144 y 999 respectivamente. A continuación, muestra por pantalla el valor de cada variable, la suma, la resta, la división y la multiplicación.  
@@ -29,7 +29,7 @@ distribuidas en dos columnas y alineadas a la izquierda.
 
 <a name="tema3"/>
 
-### TEMA 03 | Lectura de datos desde teclado
+### TEMA 3 | Lectura de datos desde teclado
 ###### Ir a [TEMA_03](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_03)
 
 [01.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_03/ejercicio1.java) Adapta el código del ejercicio 1 de la práctica 2 para que en lugar de asignar a las variables enteras x e y los valores 144 y 999 respectivamente, los solicite por pantalla al usuario, que podrá introducir cualquier valor. A continuación, se mostrará por pantalla los valores leídos, la suma, la resta, la división y la multiplicación.   
@@ -44,7 +44,7 @@ distribuidas en dos columnas y alineadas a la izquierda.
 
 <a name="tema4"/>
 
-### TEMA_04 | ESTRUCTURAS CONDICIONALES (I)
+### TEMA 4 | ESTRUCTURAS CONDICIONALES (I)
 ###### Ir a [TEMA_04](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_04)
 
 [01.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_04/ejercicio1.java) Escribe un programa que pida por teclado un día de la semana y que diga qué asignatura toca a primera hora ese día.   
@@ -54,7 +54,7 @@ distribuidas en dos columnas y alineadas a la izquierda.
 
 <a name="tema5"/>
 
-### TEMA_05 | ESTRUCTURAS CONDICIONALES (II)
+### TEMA 5 | ESTRUCTURAS CONDICIONALES (II)
 ###### Ir a [TEMA_05](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_05)
 
 [01.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_05/ejercicio1.java) Recupera alguno de los cuestionarios que has hecho en clase (M5/M16, M3, por ejemplo) y crea un programa que plantee 5 preguntas al usuario (en el enunciado deberás incluir las posibles respuestas). Finalmente se deberá mostrar por pantalla la nota obtenida (cada respuesta acertada sumará 1 punto).   
