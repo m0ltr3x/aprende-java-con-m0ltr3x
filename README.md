@@ -65,4 +65,4 @@ distribuidas en dos columnas y alineadas a la izquierda.
 [06.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_05/ejercicio6.java) Escribe un programa que calcule el precio final de un producto según:   
 -------------->• La base imponible (precio antes de impuestos).  
 -------------->• El tipo de IVA aplicado. Puede ser: general (21%), reducido (10%) o superreducido (4%).   
--------------->• El código promocional. Los códigos promocionales pueden ser: sinpromo (no se aplica promoción), mitad (el precio se reduce a la mitad), ---------------> descfijo (se descuentan 5 euros) o porcentaje (se descuenta el 5%).   
+-------------->• El código promocional. Los códigos promocionales pueden ser: sinpromo (no se aplica promoción), mitad (el precio se reduce a la mitad), descfijo (se descuentan 5 euros) o porcentaje (se descuenta el 5%).   
