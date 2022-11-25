@@ -3,7 +3,7 @@
 <a name="tema1"/>
 
 ### TEMA 01 | Salida de datos por pantalla
-###### Ir a [TEMA_01](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/tree/master/TEMA_01)
+###### Ir a [TEMA_01](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_01)
 
 [1.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_01/Ejercicio1.java) Escribe una programa que muestre tu nombre por pantalla.  
 [2.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_01/ejercicio2.java) Modifica el programa anterior para que además se muestre tu dirección y tu número de teléfono.  
