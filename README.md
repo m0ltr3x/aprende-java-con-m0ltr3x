@@ -54,7 +54,7 @@ distribuidas en dos columnas y alineadas a la izquierda.
 
 <a name="tema5"/>
 
-### TEMA_05 | TEMA_05 | ESTRUCTURAS CONDICIONALES (II)
+### TEMA_05 | ESTRUCTURAS CONDICIONALES (II)
 ###### Ir a [TEMA_05](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_05)
 
 [01.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_05/ejercicio1.java) Recupera alguno de los cuestionarios que has hecho en clase (M5/M16, M3, por ejemplo) y crea un programa que plantee 5 preguntas al usuario (en el enunciado deberás incluir las posibles respuestas). Finalmente se deberá mostrar por pantalla la nota obtenida (cada respuesta acertada sumará 1 punto).   
