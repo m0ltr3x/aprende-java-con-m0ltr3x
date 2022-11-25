@@ -41,3 +41,13 @@ distribuidas en dos columnas y alineadas a la izquierda.
 [07.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_03/ejercicio7.java)  Adapta el ejercicio 7 de la práctica 2 para que pida por pantalla 5 variables de tipo char. A continuación, crea otra variable como cadena de caracteres y asígnale como valor la concatenación de las anteriores 5 variables. Por último, muestra la cadena de caracteres por pantalla ¿Qué problemas te encuentras? ¿cómo lo has solucionado?.   
 [08.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_03/ejercicio8.java)  Escribe un programa que calcule el salario semanal de un empleado en base a las horas trabajadas, a razón de 12 euros la hora.   
 [09.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_03/ejercicio9.java)  Escribe un programa que calcule el volumen de un cono según la fórmula 𝑉 = 1 3⁄ 𝜋𝑟2ℎ.   
+
+<a name="tema4"/>
+
+### TEMA_04 | ESTRUCTURAS CONDICIONALES (I)
+###### Ir a [TEMA_04](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_04)
+
+[01.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_04/ejercicio1.java) Escribe un programa que pida por teclado un día de la semana y que diga qué asignatura toca a primera hora ese día.   
+[02.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_04/ejercicio2.java) Realiza un programa que pida una hora por teclado y que muestre luego buenos días, buenas tardes o noches según la hora. Se utilizarán los tramos de 6 a 12, de 13 a 20 y de 21 a 5. respectivamente. Sólo se tienen en cuenta las horas, los minutos no se deben introducir por teclado.    
+[03.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_04/ejercicio3.java) Escribe un programa en que dado un número del 1 a 7 escriba el correspondiente nombre del día de la semana.      
+[04.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_04/ejercicio4.java) Vamos a ampliar uno de los ejercicios de la relación anterior para considerar las horas extras. Escribe un programa que calcule el salario semanal de un trabajador teniendo en cuenta que las horas ordinarias (40 primeras horas de trabajo) se pagan a 12 euros la hora. A partir de la hora 41, se pagan a 16 euros la hora.  
