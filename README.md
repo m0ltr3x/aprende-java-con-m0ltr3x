@@ -10,7 +10,7 @@
 [7.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_01/ejercicio7.java) Escribe un programa que pinte por pantalla alguna escena con caracteres ASCII.  
 
 ### TEMA 02 | VARIABLES
-###### Ir a [TEMA_01](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_02)
+###### Ir a [TEMA_02](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_02)
 
 [1.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_02/ejercicio1.java)  Escribe un programa en el que se declaren las variables enteras x e y. Asígnales los valores 144 y 999 respectivamente. A continuación, muestra por pantalla el valor de cada variable, la suma, la resta, la división y la multiplicación.  
 [2.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_02/ejercicio2.java)  Crea la variable nombre y asígnale tu nombre completo. Muestra su valor por pantalla.
