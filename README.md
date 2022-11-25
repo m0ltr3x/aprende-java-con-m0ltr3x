@@ -63,6 +63,6 @@ distribuidas en dos columnas y alineadas a la izquierda.
 [04.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_05/ejercicio4.java) Crea un programa que calcule el número de dígitos que tiene un número. Se aceptarán números de como máximo 5 cifras. El número puede ser positivo o negativo.  
 [05.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_05/ejercicio5.java) Codifica un programa que calcule los minutos que faltan para el fin de semana. Ten en cuenta que consideramos que el fin de semana empieza el viernes a las 3 p.m. El usuario deberá introducir un día de la semana (de lunes a viernes), una hora y unos minutos.   
 [06.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_05/ejercicio6.java) Escribe un programa que calcule el precio final de un producto según:
-        • La base imponible (precio antes de impuestos).  
+\t• La base imponible (precio antes de impuestos).  
         • El tipo de IVA aplicado. Puede ser: general (21%), reducido (10%) o superreducido (4%).   
         • El código promocional. Los códigos promocionales pueden ser: sinpromo (no se aplica promoción), mitad (el precio se reduce a la mitad),                   descfijo (se descuentan 5 euros) o porcentaje (se descuenta el 5%).   
