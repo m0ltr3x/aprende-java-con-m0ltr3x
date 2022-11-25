@@ -12,7 +12,7 @@ distribuidas en dos columnas y alineadas a la izquierda.
 [4.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_01/ejercicio4.java) Escribe un programa que muestre tu horario de clase.  
 [5.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_01/ejercicio5.java) Modifica el programa anterior añadiendo colores.  
 [6.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_01/ejercicio6.java) Escribe un programa que pinte por pantalla una pirámide rellena a base de asteriscos. La base de la pirámide debe estar formada por 9 asteriscos.  
-[9.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_01/ejercicio7.java) Escribe un programa que pinte por pantalla alguna escena con caracteres ASCII.  
+[7.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_01/ejercicio7.java) Escribe un programa que pinte por pantalla alguna escena con caracteres ASCII.  
 
 <a name="tema2"/>
 
