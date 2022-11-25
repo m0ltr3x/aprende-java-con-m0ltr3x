@@ -66,3 +66,16 @@ distribuidas en dos columnas y alineadas a la izquierda.
 -------------->• La base imponible (precio antes de impuestos).  
 -------------->• El tipo de IVA aplicado. Puede ser: general (21%), reducido (10%) o superreducido (4%).   
 -------------->• El código promocional. Los códigos promocionales pueden ser: sinpromo (no se aplica promoción), mitad (el precio se reduce a la mitad), descfijo (se descuentan 5 euros) o porcentaje (se descuenta el 5%).   
+
+<a name="tema6"/>
+
+### TEMA 6 | ESTRUCTURAS CONDICIONALES (III)
+###### Ir a [TEMA_06](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_06)
+
+[01.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_06/ejercicio1.java)  Crea un programa donde escribes una letra vocal de la A a la U y no puedes introducir consonantes.   
+[02.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_06/ejercicio2.java) Codifica el siguiente programa:   
+• Pide al usuario que introduzca 3 números (en la misma línea).   
+• Muestra los números ordenados ascendentemente (de menor a mayor).   
+• Muestra los números ordenados descendentemente (de mayor a menor).   
+[03.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_06/ejercicio3.java) Crea un programa de piedra, papel y tijera.   
+[04.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_06/ejercicio4.java) Evoluciona el ejercicio anterior de forma que podamos jugar a Piedra, Papel, Tijera, Lagarto y Spock.   
