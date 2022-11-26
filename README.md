@@ -79,3 +79,29 @@ distribuidas en dos columnas y alineadas a la izquierda.
 • Muestra los números ordenados descendentemente (de mayor a menor).   
 [03.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_06/ejercicio3.java) Crea un programa de piedra, papel y tijera.   
 [04.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_06/ejercicio4.java) Evoluciona el ejercicio anterior de forma que podamos jugar a Piedra, Papel, Tijera, Lagarto y Spock.   
+
+
+a name="tema7"/>
+
+### TEMA 7 | Variables
+###### Ir a [TEMA_07](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_07)
+
+[1.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_07/ejercicio1.java) Muestra los números múltiplos de 3 opciones introducidos por el usuario, entre 0 a 100 utilizando un bucle for, while y do-while.   
+[2.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_07/ejercicio2.java) Crea un programa que haga lo siguiente:
+Muestra el mensaje: “Introduce un número entero > 10: “
+• Muestra el mensaje: “Vamos a contar números de 10 en 10 entre N (el número
+introducido) y 0”.  
+• Muestra el siguiente menú:  
+[1] Usando for.  
+[2] Usando while.  
+[3] Usando do-while.  
+• La estructura de repetición que uses deberá contar hacia atrás, es decir, se
+empezarán a mostrar los números a partir de N (Ej.; Si N=100 → 100, 90, ... , 10, 0).  
+[3.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_07/ejercicio3.java) Muestra la tabla de multiplicar de un número introducido por teclado.   
+[4.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_07/ejercicio4.java) Escribe un programa que muestre en tres columnas, el cuadrado (base * base) y el cubo (base * base * base) de los 5 primeros números enteros a partir de uno que se introduce por teclado (usa printf).   
+[5.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_07/ejercicio5.java) Crea un programa (usando bucles) que calcule el número de dígitos que tiene un número introducido desde el teclado. El número puede ser positivo o negativo.  
+[6.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_07/ejercicio6.java) Vamos a realizar una nueva versión con bucles del ejercicio de adivinar un número aleatorio visto anteriormente. Escoge la estructura de iteración que consideres más apropiada.   
+El programa deberá generar automáticamente un número aleatorio entre 0 – 10, usando la función Math.random, y luego el usuario deberá tratar de adivinarlo.   
+a) El programa continuará solicitando un número hasta que el usuario lo acierte.  
+b) Se establecerá un número máximo de 3 intentos para adivinarlo.  
+[7.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_07/ejercicio7.java) Escribe un programa que pida una base y un exponente (entero positivo) y que calcule la potencia. NO USAR java.lang.Math .pow ().   
