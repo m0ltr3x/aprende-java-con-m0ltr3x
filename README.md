@@ -83,7 +83,7 @@ distribuidas en dos columnas y alineadas a la izquierda.
 
 <a name="tema7"/>
 
-### TEMA 7 | Variables
+### TEMA 7 | BUCLES (I)
 ###### Ir a [TEMA_07](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_07)
 
 [1.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_07/ejercicio1.java) Muestra los números múltiplos de 3 opciones introducidos por el usuario, entre 0 a 100 utilizando un bucle for, while y do-while.   
@@ -105,3 +105,17 @@ El programa deberá generar automáticamente un número aleatorio entre 0 – 10
 a) El programa continuará solicitando un número hasta que el usuario lo acierte.  
 b) Se establecerá un número máximo de 3 intentos para adivinarlo.  
 [7.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_07/ejercicio7.java) Escribe un programa que pida una base y un exponente (entero positivo) y que calcule la potencia. NO USAR java.lang.Math .pow ().   
+
+
+<a name="tema8"/>
+
+### TEMA 8 | BUCLES (II)
+###### Ir a [TEMA_08](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_07)
+
+[1.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_07/ejercicio1.java) Escribe un programa que muestre los n primeros términos de la serie de Fibonacci. El número n se debe introducir por teclado.  
+[2.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_07/ejercicio2.java) Realiza un programa que pinte una pirámide rellena por pantalla. La altura y el carácter de relleno se deben pedir por teclado.  
+[3.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_07/ejercicio3.java) Realiza un programa que: Pida números hasta que se introduzca un numero negativo. Tras introducir un número negativo el programa deberá mostrar: Cuantos números se han introducido, la media de los impares y el mayor de los pares y el número negativo sólo se utiliza para indicar el final de la introducción de datos pero no se incluye en los cálculos.  
+[4.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_07/ejercicio4.java) Realiza un programa que pida un número por teclado y que luego muestre ese número al revés.   
+[5.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_07/ejercicio5.java) Escribe un programa que calcule el factorial de un número entero leído por teclado.   
+[6.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_07/ejercicio6.java) Realiza un programa que calcule las horas transcurridas entre dos horas de dos días de la semana. No se tendrán en cuenta los minutos ni los segundos. El día de la semana se puede pedir como un número (del 1 al 7) o como una cadena (de “lunes” a “domingo”). Se debe comprobar que el usuario introduce los datos correctamente y que el segundo día es posterior al primero.   
+[7.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_07/ejercicio7.java) Realiza un programa que pinte la letra L por pantalla hecha con asteriscos. El programa pedirá la altura. El palo horizontal de la L tendrá una longitud de la mitad (división entera entre 2) de la altura más uno.    
