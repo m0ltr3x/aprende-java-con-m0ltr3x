@@ -81,7 +81,7 @@ distribuidas en dos columnas y alineadas a la izquierda.
 [04.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_06/ejercicio4.java) Evoluciona el ejercicio anterior de forma que podamos jugar a Piedra, Papel, Tijera, Lagarto y Spock.   
 
 
-a name="tema7"/>
+<a name="tema7"/>
 
 ### TEMA 7 | Variables
 ###### Ir a [TEMA_07](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_07)
