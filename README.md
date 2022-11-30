@@ -124,7 +124,7 @@ b) Se establecerá un número máximo de 3 intentos para adivinarlo.
 <a name="tema9"/>
 
 ### TEMA 9 | BUCLES (III)
-###### Ir a [TEMA_08](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_09)
+###### Ir a [TEMA_09](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_09)
 
 [1.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_09/ejercicio1.java) Escribe un programa que pida un número por pantalla y devuelva la suma de sus dígitos.   
 [2.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_09/ejercicio2.java) Escribe un programa que: Solicite que se introduzca una palabra o frase por teclado, a continuación pida un determinado carácter y Finalmente deberá contar cuántas veces aparece ese carácter dentro del texto introducido. Para hacerlo deberás usar bucles y los métodos length y charAt de la clase String.   
