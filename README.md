@@ -119,3 +119,26 @@ b) Se establecerá un número máximo de 3 intentos para adivinarlo.
 [5.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_08/ejercicio5.java) Escribe un programa que calcule el factorial de un número entero leído por teclado.   
 [6.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_08/ejercicio6.java) Realiza un programa que calcule las horas transcurridas entre dos horas de dos días de la semana. No se tendrán en cuenta los minutos ni los segundos. El día de la semana se puede pedir como un número (del 1 al 7) o como una cadena (de “lunes” a “domingo”). Se debe comprobar que el usuario introduce los datos correctamente y que el segundo día es posterior al primero.   
 [7.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_08/ejercicio7.java) Realiza un programa que pinte la letra L por pantalla hecha con asteriscos. El programa pedirá la altura. El palo horizontal de la L tendrá una longitud de la mitad (división entera entre 2) de la altura más uno.    
+
+
+<a name="tema9"/>
+
+### TEMA 9 | BUCLES (III)
+###### Ir a [TEMA_08](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_09)
+
+[1.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_09/ejercicio1.java) Escribe un programa que pida un número por pantalla y devuelva la suma de sus dígitos.   
+[2.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_09/ejercicio2.java) Escribe un programa que: Solicite que se introduzca una palabra o frase por teclado, a continuación pida un determinado carácter y Finalmente deberá contar cuántas veces aparece ese carácter dentro del texto introducido. Para hacerlo deberás usar bucles y los métodos length y charAt de la clase String.   
+[3.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_09/ejercicio3.java) Escribe un programa que imprima los caracteres de una variable String de la siguiente forma: Un carácter por línea y Que las líneas formen una diagonal.   
+[4.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_09/ejercicio4.java) Crea un cuadro donde: La primera fila contendrá los valores del 1 al 10, La primera columna contendrá los valores del 1 al 10 y El resto de las celdas tendrán el resultado de multiplicar el número de la fila a la que pertenece por el número de la columna.  
+[5.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_09/ejercicio5.java) Implementa un juego en el que las reglas son las siguientes: 
+Al comenzar la partida, el jugador introduce la cantidad de dinero que quiere
+apostar.   
+• Se muestra la tirada aleatoria de dos dados.   
+• Si entre los dos dados suman 7 u 11, el jugador gana la misma cantidad que apostó
+y termina la partida. Por ej. si apostó 1000 €, gana otros 1000 € y acaba con 2000 €.   
+• Si entre los dos dados suman 2, 3 o 12, el jugador pierde todo su dinero y termina la
+partida.   
+• Si no se da ninguno de los casos anteriores, es decir si sale 4, 5, 6, 8, 9 o 10, el
+juego entra en una segunda etapa. En esta etapa, el jugador buscará volver a
+obtener ese número en los dados. Si consigue repetir ese número, gana. Si sale un
+7, pierde. Si sale otro número, tiene que seguir tirando.   
