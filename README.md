@@ -131,14 +131,10 @@ b) Se establecerá un número máximo de 3 intentos para adivinarlo.
 [3.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_09/ejercicio3.java) Escribe un programa que imprima los caracteres de una variable String de la siguiente forma: Un carácter por línea y Que las líneas formen una diagonal.   
 [4.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_09/ejercicio4.java) Crea un cuadro donde: La primera fila contendrá los valores del 1 al 10, La primera columna contendrá los valores del 1 al 10 y El resto de las celdas tendrán el resultado de multiplicar el número de la fila a la que pertenece por el número de la columna.  
 [5.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_09/ejercicio5.java) Implementa un juego en el que las reglas son las siguientes: 
-Al comenzar la partida, el jugador introduce la cantidad de dinero que quiere
-apostar.   
+Al comenzar la partida, el jugador introduce la cantidad de dinero que quiere apostar.   
 • Se muestra la tirada aleatoria de dos dados.   
-• Si entre los dos dados suman 7 u 11, el jugador gana la misma cantidad que apostó
-y termina la partida. Por ej. si apostó 1000 €, gana otros 1000 € y acaba con 2000 €.   
-• Si entre los dos dados suman 2, 3 o 12, el jugador pierde todo su dinero y termina la
-partida.   
-• Si no se da ninguno de los casos anteriores, es decir si sale 4, 5, 6, 8, 9 o 10, el
-juego entra en una segunda etapa. En esta etapa, el jugador buscará volver a
-obtener ese número en los dados. Si consigue repetir ese número, gana. Si sale un
-7, pierde. Si sale otro número, tiene que seguir tirando.   
+• Si entre los dos dados suman 7 u 11, el jugador gana la misma cantidad que apostó y termina la partida. Por ej. si apostó 1000 €, gana otros 1000 € y acaba con 2000 €.   
+• Si entre los dos dados suman 2, 3 o 12, el jugador pierde todo su dinero y termina la partida.   
+• Si no se da ninguno de los casos anteriores, es decir si sale 4, 5, 6, 8, 9 o 10, el juego entra en una segunda etapa. En esta etapa, el jugador buscará volver a obtener ese número en los dados. Si consigue repetir ese número, gana. Si sale un 7, pierde. Si sale otro número, tiene que seguir tirando.   
+[6.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_09/ejercicio6.java)  Sigue el algoritmo del diagrama de la imagen y pasamelo a java con las notas medias de los alumnos.  
+[7.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_09/ejercicio7.java) En este ejercicio vamos a seguir el diagrama de numeros primos hecho por el profesor y pasarlo a java, tenemos que poner un numero entero y decir si el numero introducido es un numero primo o no.  
