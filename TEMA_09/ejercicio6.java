@@ -7,7 +7,7 @@ import java.util.Scanner;
  * 
  * Sigue el algoritmo del diagrama de la imagen y pasamelo a java con las notas medias de los alumnos.   
  * 
- * @author josebartor
+ * @author m0ltr3x
  */
 public class ejercicio6 {
 
