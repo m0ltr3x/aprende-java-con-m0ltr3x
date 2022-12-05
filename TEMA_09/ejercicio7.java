@@ -7,7 +7,7 @@ import java.util.Scanner;
  * En este ejercicio vamos a seguir el diagrama de numeros primos hecho por el profesor y pasarlo a java, tenemos que poner un numero entero y decir
  * si el numero introducido es un numero primo o no
  * 
- * @author josebartor
+ * @author m0ltr3x
  */
 public class ejercicio7 {
 
