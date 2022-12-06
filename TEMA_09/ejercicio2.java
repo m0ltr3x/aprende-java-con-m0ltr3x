@@ -21,10 +21,10 @@ public class ejercicio2 {
         int contamos = 0;
 
         System.out.print("Por favor, introduce tu frase: ");
-        String palabra = keyboard.nextLine();
+        String palabra = keyboard.next();
 
         System.out.println("¿que caracter quieres contar? ");
-        String caracter = keyboard.nextLine();
+        String caracter = keyboard.next();
         for (int i = 0; i < palabra.length(); i++) {
             if (palabra.charAt(i) == caracter.charAt(0)) {
                 contamos++;
