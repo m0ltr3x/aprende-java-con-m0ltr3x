@@ -23,7 +23,6 @@ public class ejercicio5 {
     public static void main(String[] args) {
         System.out.print("Por favor, Introduce la cantidad de dinero que quieres apostar: ");
         int dinero = keyboard.nextInt();
-        boolean juegoAcabado = false;
 
         int dado1 = (int) (Math.random() * 6) + 1; //TIRAMOS EL DADO 1 Y NOS DARA UN NUMERO ALEATORIAMENTE
         int dado2 = (int) (Math.random() * 6) + 1; //TIRAMOS EL DADO 2 Y NOS DARA UN NUMERO ALEATORIAMENTE
