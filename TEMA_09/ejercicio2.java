@@ -17,7 +17,8 @@ public class ejercicio2 {
     static Scanner keyboard = new Scanner(System.in);
 
     public static void main(String[] args) {
-
+        keyboard.useDelimiter("\n"); //ESTO ES IMPORTANTE SI QUIERES QUE TU PROGRAMA PUEDA DETECTAR FRASES, SI NO LO PONES DE LO CONTRARIO SOLO 
+                                     //DETECTARA UNA PALABRA.
         int contamos = 0;
 
         System.out.print("Por favor, introduce tu frase: ");
