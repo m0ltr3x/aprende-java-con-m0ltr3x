@@ -4,9 +4,14 @@ import java.util.Scanner;
 import java.util.StringTokenizer;
 
 /**
- *
- * @author josebartor
- */
+*
+*   Crea un programa que pida al usuario un String y:
+* • Reemplace todas las ‘a’ minúsculas por ‘A’ mayúsculas, excepto si están precedidas por un espacio
+* • Muestre las iniciales de cada palabra
+* • Muestre las letras pares en mayúsculas y las impares en minúsculas El programa debe mostrar todos los String generados en los puntos anteriores
+*
+* @author m0ltr3x
+*/
 public class ejercicio1 {
 
     static Scanner keyboard = new Scanner(System.in);
