@@ -138,3 +138,17 @@ Al comenzar la partida, el jugador introduce la cantidad de dinero que quiere ap
 • Si no se da ninguno de los casos anteriores, es decir si sale 4, 5, 6, 8, 9 o 10, el juego entra en una segunda etapa. En esta etapa, el jugador buscará volver a obtener ese número en los dados. Si consigue repetir ese número, gana. Si sale un 7, pierde. Si sale otro número, tiene que seguir tirando.   
 [6.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_09/ejercicio6.java)  Sigue el algoritmo del diagrama de la imagen y pasamelo a java con las notas medias de los alumnos.  
 [7.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_09/ejercicio7.java) En este ejercicio vamos a seguir el diagrama de numeros primos hecho por el profesor y pasarlo a java, tenemos que poner un numero entero y decir si el numero introducido es un numero primo o no.  
+
+<a name="tema10"/>
+
+### TEMA 10 | CLASE STRING Y CLASE MATH
+###### Ir a [TEMA_10](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/tree/main/TEMA_10)
+
+[1.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_10/ejercicio1.java) Crea un programa que pida al usuario un String y: Reemplace todas las ‘a’ minúsculas por ‘A’ mayúsculas, excepto si están precedidas por un espacio. Muestre las iniciales de cada palabra y por ultimo muestre las letras pares en mayúsculas y las impares en minúsculas. El programa debe mostrar todos los String generados en los puntos anteriores.   
+[2.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_10/ejercicio2.java) Realiza un programa que llene la pantalla de caracteres aleatorios (a lo Matrix) con el código ascii entre el 32 y el 126. Puedes hacer casting con (char) para convertir un entero en un carácter.   
+[3.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_10/ejercicio3.java) Realiza un programa que intentará adivinar el número que estás pensando - un número entre 0 y 100 - teniendo para ello 5 oportunidades. En cada intento fallido, el programa debe preguntar si el número que estás pensando es mayor o menor que el que te acaba de decir.   
+[4.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_10/ejercicio4.java) Realiza un simulador de máquina tragaperras simplificada que cumpla los siguientes. requisitos:  
+a) El ordenador mostrará una tirada que consiste en mostrar 3 figuras. Hay 5 figuras posibles: corazón, diamante, herradura, campana y limón.
+b) Si las tres figuras son diferentes se debe mostrar el mensaje “Lo siento, ha perdido”.  
+c) Si hay dos figuras iguales y una diferente se debe mostrar el mensaje “Bien, ha recuperado su moneda”.  
+d) Si las tres figuras son iguales se debe mostrar “Enhorabuena, ha ganado 10 monedas”. 
