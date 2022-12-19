@@ -148,7 +148,7 @@ Al comenzar la partida, el jugador introduce la cantidad de dinero que quiere ap
 [2.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_10/ejercicio2.java) Realiza un programa que llene la pantalla de caracteres aleatorios (a lo Matrix) con el código ascii entre el 32 y el 126. Puedes hacer casting con (char) para convertir un entero en un carácter.   
 [3.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_10/ejercicio3.java) Realiza un programa que intentará adivinar el número que estás pensando - un número entre 0 y 100 - teniendo para ello 5 oportunidades. En cada intento fallido, el programa debe preguntar si el número que estás pensando es mayor o menor que el que te acaba de decir.   
 [4.](https://github.com/m0ltr3x/aprende-java-con-m0ltr3x/blob/main/TEMA_10/ejercicio4.java) Realiza un simulador de máquina tragaperras simplificada que cumpla los siguientes. requisitos:  
-a) El ordenador mostrará una tirada que consiste en mostrar 3 figuras. Hay 5 figuras posibles: corazón, diamante, herradura, campana y limón.
+a) El ordenador mostrará una tirada que consiste en mostrar 3 figuras. Hay 5 figuras posibles: corazón, diamante, herradura, campana y limón.  
 b) Si las tres figuras son diferentes se debe mostrar el mensaje “Lo siento, ha perdido”.  
 c) Si hay dos figuras iguales y una diferente se debe mostrar el mensaje “Bien, ha recuperado su moneda”.  
 d) Si las tres figuras son iguales se debe mostrar “Enhorabuena, ha ganado 10 monedas”. 
